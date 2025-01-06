@@ -8,7 +8,6 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px;">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js" alt="Nuxt.js" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript" />
